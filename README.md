@@ -15,4 +15,4 @@
 1. Clone the repo: `git clone https://github.com/PetcuDavid/LivenessPulse-PoC`
 2. Install dependencies: `pip install opencv-python numpy`
 3. Run the demo: `python main.py`
-4. Press **'a'** to simulate a deepfake/blur attack.
+4. Press **'a'** to simulate a deepfake/blur attack, or **'q'** to quit.
